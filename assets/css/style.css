@@ -1,0 +1,152 @@
+body {
+    
+    background-image: url("../images/ricepaper_v3.png");
+   
+   }
+
+.Website_Header {
+
+    margin-top: -21px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    /* background-color: rgb(141, 145, 146); */
+    background-color: rgb(87, 109, 206);
+    color: white;
+    position: relative;
+ 
+
+}
+
+#EVAHA_LOGO {
+
+    width: 112px;
+    height:112px;
+    
+}
+
+#title_text {
+position: absolute;
+top: 25px;
+left: 140px;
+font-size: 24pt;
+
+}
+
+/* Body Image CSS */
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .evaha_photos{
+width:100%;
+height: 280px;
+
+  }
+
+  .homepage_body{
+    padding-top: 20px;
+
+  }
+
+  .body_text{
+    font-size: 16pt;
+
+  }
+
+.about_text{
+    font-size: 14pt;
+
+}
+
+  .rules_text{
+    font-size: 14pt;
+  }
+
+  .mySlides1 {
+      display:none;
+    }
+
+  .mySlides2 {
+    display:none;
+  }
+
+  .mySlides3 {
+    display:none;
+  }
+
+  .desktop_pictures {
+    display: block;
+
+  }
+
+  .mobile_picture {
+    display: none;
+
+  }
+  @media screen and (max-width: 700px) {
+    /* .desktop_pictures {
+        display: none;
+    
+      }
+
+      .mobile_picture {
+        display: block;
+    
+      } */
+
+      .evaha_photos{
+        width:100%;
+        height: 180px;
+        
+          }
+
+      #title_text {
+        position: absolute;
+        top: 10px;
+        left: 140px;
+        font-size: 24pt;
+        
+        }
+  }
+
+
+
+  @media screen and (max-width: 450px) {
+    .desktop_pictures {
+        display: none;
+    
+      }
+
+      .mobile_picture {
+        display: block;
+    
+      }
+
+      .evaha_photos{
+        width:100%;
+        height: 280px;
+        
+          }
+
+      #title_text {
+        position: absolute;
+        top: 10px;
+        left: 140px;
+        font-size: 18pt;
+        
+        }
+  }

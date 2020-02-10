@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>EVAHA.org</title>
+  <link rel="shortcut icon" href="assets//images/EVAHA_LOGO.png">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <!-- Add CSS -->
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  
+  <style>
+        
+        p {font-size:14pt;}
+       
+        </style>
+
+</head>
+<body >
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="/">EVAHA.org</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="/">Home</a></li>
+        <li class="active"><a href="horse_show_dates">Location & Dates</a></li>
+        <li ><a href="classlist">Class List</a></li>
+        <li><a href="entryforms">Forms</a></li>
+        <li><a href="rules">Rules & Regulations</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+     
+    </div>
+  </div>
+</nav>
+  
+<div class="Website_Header">
+        <img src="./assets/images/EVAHA_LOGO.png" alt="Italian Trulli" id="EVAHA_LOGO">
+
+
+        <h3 id="title_text">East Valley Arabian Horse Association</h3>
+        
+</div>
+
+<div class="container ">
+
+    <h2>Location and Dates</h2>
+
+    <h3>Location</h3>
+
+    <p>Horseshoe Park & Equestrian Centre</p>
+    <p>20464 E. Riggs Road</p>
+    <p>Queen Creek, AZ 85142</p>
+    
+    <h3>2020 Show Dates</h3>
+        <ul class="about_text">
+           <li>January 4</li>
+           <li>March 21</li>
+           <li>April 25</li>
+           <li>September TBA</li>
+           <li>October TBA</li>
+           <li>November TBA</li>
+        </ul>
+
+     
+        
+</div>
+
+</div>
+
+
+<!-- My Javascript -->
+
+<script src="assets/javascript/animatepictures1.js"></script>
+<script src="assets/javascript/animatepictures2.js"></script>
+<script src="assets/javascript/animatepictures3.js"></script>
+
+
+</body>
+</html>

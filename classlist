@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>EVAHA.org</title>
+  <link rel="shortcut icon" href="assets//images/EVAHA_LOGO.png">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <!-- Add CSS -->
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  
+</head>
+<body >
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="index.html">EVAHA.org</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="index.html">Home</a></li>
+        <li ><a href="horse_show_dates.html">Location & Dates</a></li>
+        <li class="active"><a href="classlist.html">Class List</a></li>
+        <li><a href="entryforms.html">Forms</a></li>
+        <li ><a href="rules.html">Rules & Regulations</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+     
+    </div>
+  </div>
+</nav>
+  
+<div class="Website_Header">
+        <img src="./assets/images/EVAHA_LOGO.png" alt="Italian Trulli" id="EVAHA_LOGO">
+
+
+        <h3 id="title_text">East Valley Arabian Horse Association</h3>
+        
+</div>
+
+<div class="container ">
+<h2>Class List</h2>
+<ol class="about_text">
+    <li>LEADLINE</li>
+    <li>HALTER -OPEN ANY AGE OR SEX</li>
+    <li>SHOWMANSHIP AT HALTER</li>
+    <li>SPORT HORSE IN-HAND- OPEN ANY AGE OR SEX</li>
+    <li>DRIVING</li>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - 7 & UNDER</li>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - 8-12</li>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - 13-17</li>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - OPEN</li>
+     <b><li>HUNTSEAT / SADDLESEAT WALK/TROT - 12 & UNDER CHAMPIONSHIP</li></b>
+     <b><li>HUNTSEAT / SADDLESEAT WALK/TROT - 13-17 CHAMPIONSHIP</li></b>
+     <b><li>HUNTSEAT / SADDLESEAT WALK/TROT - OPEN CHAMPIONSHIP</li></b>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - 7 & UNDER</li>
+    <li>HUNTSEAT / SADDLESEAT WALK/TROT - 7 & UNDER</li>
+    <li>SPORT HORSE UNDER SADDLE - OPEN</li>
+    <li>HUNTSEAT/SADDLESEAT EQUITATION - 7 & UNDER</li>
+    <li>HUNTSEAT/SADDLESEAT EQUITATION - 8-12</li>
+    <li>HUNTSEAT/SADDLESEAT EQUITATION - 13-17</li>
+    <li>HUNTSEAT/SADDLESEAT EQUITATION - OPEN</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - 7 & UNDER</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - 8-12</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - 13-17</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - NOVICE HORSE AND/OR RIDER</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - OPEN</li>
+    <li>HUNTSEAT/SADDLESEAT PLEASURE - NOVICE HORSE AND/OR RIDER</li>   
+    <b><li>HUNTSEAT / SADDLESEAT PLEASURE - 12 & UNDER CHAMPIONSHIP</li></b>
+    <b><li>HUNTSEAT / SADDLESEAT PLEASURE - 13-17 CHAMPIONSHIP</li></b>
+    <b><li>HUNTSEAT / SADDLESEAT PLEASURE - OPEN CHAMPIONSHIP</li></b>
+    <b><li><i>FUN COSTUME CLASS-SHOWN AT A WALK</i></li></b>
+    <li>WESTERN WALK/TROT - 7 & UNDER</li>
+    <li>WESTERN WALK/TROT - 8-12</li>
+    <li>WESTERN WALK/TROT - 13-17</li>
+    <li>WESTERN WALK/TROT - OPEN</li>
+    <b><li>WESTERN WALK/TROT - 12 & UNDER CHAMPIONSHIP</li></b>
+    <b><li>WESTERN WALK/TROT - 13-17 CHAMPIONSHIP</li></b>
+    <b><li>WESTERN WALK/TROT - OPEN CHAMPIONSHIP</li></b>
+    <li>WESTERN EQUITATION - 7 & UNDER</li>
+    <li>WESTERN EQUITATION - 8-12</li>
+    <li>WESTERN EQUITATION - 13-17</li>
+    <li>WESTERN EQUITATION - OPEN</li>
+    <li>WESTERN PLEASURE - 7 & UNDER</li>
+    <li>WESTERN PLEASURE - 8-12</li>
+    <li>WESTERN PLEASURE - 13-17</li>
+    <li>WESTERN PLEASURE - NOVICE HORSE AND/OR RIDER</li>
+    <li>WESTERN PLEASURE - OPEN</li>
+    <b><li>WESTERN PLEASURE - 12 & UNDER CHAMPIONSHIP</li></b>
+    <b><li>WESTERN PLEASURE - 13-17 CHAMPIONSHIP</li></b>
+    <b><li>WESTERN PLEASURE - OPEN CHAMPIONSHIP</li></b>
+   
+</ol>
+
+
+
+
+</div>
+
+
+<!-- My Javascript -->
+
+<script src="assets/javascript/animatepictures1.js"></script>
+<script src="assets/javascript/animatepictures2.js"></script>
+<script src="assets/javascript/animatepictures3.js"></script>
+
+
+</body>
+</html>
